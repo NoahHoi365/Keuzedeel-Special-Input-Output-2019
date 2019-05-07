@@ -1,8 +1,7 @@
 # Special Input/Output
 Team #
-1. teamlid 
-2. teamlid
-3. teamlid
+1. Noah Eelman
+2. Jarno van Lierop
 
 [Projectmanagment]() <Trello scrumboard bijvoorbeeld>
 
