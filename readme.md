@@ -13,4 +13,5 @@ Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek](https://mediacollegeamsterdam-my.sharepoint.com/:w:/g/personal/24922_ma-web_nl/EU32XUrpPntJtL250xyqXYsBUiq8gI764TjWRp2NfUywog?e=zPC4m6)
 * [Ontwerp](https://mediacollegeamsterdam-my.sharepoint.com/:w:/g/personal/24922_ma-web_nl/EWtiTEPcN_1Fs6mXcUQniC0BkrICJkp3PpeFCaB-YhIJgw?e=kaS9rY)
+* [Testrapportage](https://youtu.be/u7IaidBwqgc)
 * [Presentatie](https://mediacollegeamsterdam-my.sharepoint.com/:p:/g/personal/24922_ma-web_nl/EWdi0Vml3YlAmfnUe1uL2EEBNTJbjqyZ80KL4hHP47vxPQ?e=fKpzc3)
