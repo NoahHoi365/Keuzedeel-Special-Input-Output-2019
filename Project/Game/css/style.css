@@ -1,0 +1,39 @@
+.wrapper-game {
+  overflow:hidden;
+  position: relative;
+}
+.street{
+  height:40px;
+  width:100%;
+  background-color:red;
+  position:relative;
+}
+.street:nth-child(2n+1){
+  background-color:yellow;
+}
+
+.car {
+  height:10px;
+  width:10px;
+  background-color:blue;
+  position:absolute;
+  top:50%;
+  margin-top:-5px;
+}
+
+.sidewalk {
+  height:40px;
+  width:100%;
+  background-color:grey;
+  position:relative;
+}
+
+.frogger {
+  position:absolute;
+  width:10px;
+  height:10px;
+  background-color:green;
+  left:50%;
+  bottom:15px;
+  margin-left:-5px;
+}
