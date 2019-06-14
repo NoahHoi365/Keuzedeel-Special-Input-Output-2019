@@ -1,5 +1,5 @@
 # Special Input/Output
-Team 10
+Team X
 1. Noah Eelman
 2. Jarno van Lierop
 
